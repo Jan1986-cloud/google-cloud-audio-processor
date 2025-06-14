@@ -1,1 +1,6 @@
+ffmpeg-python
+google-cloud-storage
+google-cloud-aiplatformAdd commentMore actions
+google-api-python-client
+google-auth
 functions-framework
